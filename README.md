@@ -1,2 +1,2 @@
 # test-landing-page
-Testing landing page
+Create a test landing page for learning
